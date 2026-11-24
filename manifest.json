@@ -1,0 +1,8 @@
+{
+  "name": "Tracce offline",
+  "short_name": "Tracce",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f5",
+  "theme_color": "#17493f"
+}
